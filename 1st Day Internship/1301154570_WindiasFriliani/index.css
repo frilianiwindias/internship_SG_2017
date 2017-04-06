@@ -120,6 +120,9 @@ h6{
 }
 
 nav{
+	text-align: center;
+	margin:0 auto;
+	display:block;
 	color:white;
 	font-size:15px;
 }
