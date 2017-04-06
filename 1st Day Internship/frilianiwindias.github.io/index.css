@@ -1,0 +1,130 @@
+img {
+	display:block;
+	margin:50px;
+	margin:0 auto;
+	width:22%;
+}
+
+#a{
+	font-size:40px;
+	color:pink;
+	text-align: center;
+	font-family: Spirax;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+#b{
+	color:white;
+	font-family:Bree Serif;
+	font-size:100%;
+	text-align: center;
+}
+
+#c{
+	color:blue;
+	font-family:'Acme', sans-serif;
+	font-size:120%;
+	text-align: left;
+	line-height: 30px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	border-bottom: 3px solid grey;
+	border-top:  3px solid grey;
+	border-left: 3px solid grey;
+	border-right: 3px solid grey;
+}
+
+#d{
+	color:green;
+	font-family:'Acme', sans-serif;
+	text-align:left;
+	font-size:110%;
+	line-height: 30px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	border-bottom: 3px solid grey;
+	border-top:  3px solid grey;
+	border-left: 3px solid grey;
+	border-right: 3px solid grey;
+}
+
+#e{
+	color:red;
+	font-family:'Acme', sans-serif;
+	text-align:center;
+	font-size:100%;
+	line-height: 30px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	border-bottom: 3px solid grey;
+	border-top:  3px solid grey;
+	border-left: 3px solid grey;
+	border-right: 3px solid grey;
+}
+
+h1{
+	color:purple;
+	font-family:'Fredoka One', cursive;
+	text-align:center;
+	font-size:200%;
+	letter-spacing: 1px;
+	padding-top: center;
+	line-height: 50px;
+}
+
+h4{
+	color:purple;
+	font-family:'Acme', sans-serif;
+	text-align:Left;
+	font-size:150%;
+	letter-spacing: 1px;
+	padding-top: center;
+	line-height: 50px;
+}
+
+h5{
+	color:purple;
+	font-family:'Acme', sans-serif;
+	text-align:Left;
+	font-size:150%;
+	letter-spacing: 1px;
+	padding-top: center;
+	line-height: 50px;
+}
+
+h6{
+	color:purple;
+	font-family:'Acme', sans-serif;
+	text-align:Left;
+	font-size:150%;
+	letter-spacing: 1px;
+	padding-top: center;
+	line-height: 50px;
+}
+
+.btn{
+	background-color:blue;
+	font-size:10px;
+	display:block;
+	margin:0 auto;
+	border-color:black;
+}
+
+nav{
+	color:white;
+	font-size:15px;
+}
+
+body{
+	background-color: pink;
+}
+
